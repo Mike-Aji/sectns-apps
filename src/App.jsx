@@ -15,11 +15,11 @@ function App(){
 
   return (
     <>
-    {/* <Signin/>
-    <Splitscreen/> */}
-    {/* <Herosection/> */}
-    {/* <Phonemockup/> */}
-    {/* <Ctasections/> */}
+    <Signin/>
+    <Splitscreen/>
+    <Herosection/> 
+    <Phonemockup/> 
+    <Ctasections/>
     <Ourteam/>
     </>
   )
