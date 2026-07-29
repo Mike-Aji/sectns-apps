@@ -56,7 +56,7 @@ function Phonemockup() {
                 </div>
 
                 <div className='w-2/5 p-7 mr-10'>
-                    <img src="/images/mobilepix.png" alt="laptop" className='h-170 w-90 object-cover rounded-3xl' />
+                    <img src="/images/mobilepix.png" alt="mobilepix" className='h-170 w-90 object-cover rounded-3xl' />
                 </div>
             </div>
 

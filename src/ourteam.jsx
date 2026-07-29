@@ -4,8 +4,8 @@ import { MoveRight, ArrowRight, ChevronRight } from 'lucide-react';
 
 function Ourteam() {
     return (
-        <section className='bg-slate-900 p-10 rounded-2xl'>
-            <div className='flex bg-slate-800 p-10 rounded-2xl'>
+        <section className='bg-slate-900 pb-30 pt-30 rounded-2xl'>
+            <div className='flex bg-slate-800 pt-20 pb-20 pl-10 ml-10 mr-10 rounded-2xl border border-gray-700'>
                 <div className='w-2/5'>
                     <img src="/images/ourteampic.avif" alt="ourteampic" className=' h-95 w-95 object-cover rounded-2xl' />
                 </div>
@@ -14,8 +14,8 @@ function Ourteam() {
                     <h1 className='text-5xl font-bold mb-5'>Join our team</h1>
                     <p className='text-gray-400 text-xl leading-relaxed'>Lorem ipsum dolor sit amet consect adipisicing elit. Possimus magnam voluptatum cupiditate veritatis in accusamus quisquam.</p>
 
-                    <div className='flex gap-30 mt-15 text-gray-300'>
-                        <div className=''>
+                    <div className='flex gap-30 mt-15 text-gray-300 '>
+                        <div className='flex flex-col justify-between h-25'>
                             <div className='flex gap-4'>
                                 <img src="/images/circlecheckpic.png" alt="" className='w-4 h-4 rounded-full' />                                <p>Competitive salaries</p>
                             </div>
@@ -27,7 +27,7 @@ function Ourteam() {
                             </div>
                         </div>
 
-                        <div className=''>
+                        <div className='flex flex-col justify-between h-25'>
                             <div className='flex gap-4'>
                                 <img src="/images/circlecheckpic.png" alt="" className='w-4 h-4 rounded-full' />                                <p>Flexible work hours</p>
                             </div>
@@ -40,9 +40,12 @@ function Ourteam() {
                             </div>
                         </div>
                     </div>
+                    <div className='flex gap-1 mt-10 text-indigo-500 hover:text-indigo-400'>
+                        <a href="">See our job postings</a>
+                        <ArrowRight/>
+                    </div>
                 </div>
             </div>
-
         </section>
     );
 }

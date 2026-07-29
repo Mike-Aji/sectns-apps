@@ -9,18 +9,21 @@ import Herosection from './herosections'
 import Phonemockup from './phonemockup'
 import Ctasections from './ctaSections'
 import Ourteam from './ourteam'
+import Bentogrids from './BentoGrids'
 
-function App(){
- 
 
+
+
+function App() {
   return (
     <>
-    <Signin/>
+    {/* <Signin/>
     <Splitscreen/>
     <Herosection/> 
     <Phonemockup/> 
-    <Ctasections/>
-    <Ourteam/>
+    <Ctasections/> 
+    <Ourteam /> */}
+    <Bentogrids/>
     </>
   )
 }
