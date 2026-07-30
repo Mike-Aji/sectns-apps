@@ -25,7 +25,7 @@ function App() {
     <Phonemockup/> 
     <Ctasections/> 
     <Ourteam /> 
-    * <Bentogrids/>
+    <Bentogrids/>
     <Pricingsections/>
     </>
   )
