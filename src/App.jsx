@@ -25,8 +25,8 @@ function App() {
     <Phonemockup/>  */}
     {/* <Ctasections/> 
     <Ourteam />  */}
-     <Bentogrids/>
-    {/* <Pricingsections/>  */}
+     {/* <Bentogrids/> */}
+    <Pricingsections/> 
     </>
   )
 }
