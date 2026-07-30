@@ -21,12 +21,12 @@ function App() {
     <>
     {/* <Signin/>
     <Splitscreen/> */}
-    * <Herosection/> 
-    <Phonemockup/> 
-    {/* <Ctasections/> 
+    {/* * <Herosection/> 
+    <Phonemockup/>  */}
+    <Ctasections/> 
     <Ourteam /> 
-    <Bentogrids/>
-    <Pricingsections/>  */}
+    {/* <Bentogrids/>
+    <Pricingsections/> */}
     </>
   )
 }
