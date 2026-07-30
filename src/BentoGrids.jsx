@@ -42,8 +42,6 @@ function Bentogrids() {
                     </div>
 
                 </div>
-
-
             </div>
         </section>
     );

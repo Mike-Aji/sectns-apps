@@ -10,6 +10,8 @@ import Phonemockup from './phonemockup'
 import Ctasections from './ctaSections'
 import Ourteam from './ourteam'
 import Bentogrids from './BentoGrids'
+import Pricingsections from './pricingsections'
+
 
 
 
@@ -23,7 +25,8 @@ function App() {
     <Phonemockup/> 
     <Ctasections/> 
     <Ourteam /> */}
-    <Bentogrids/>
+    {/* <Bentogrids/> */}
+    <Pricingsections/>
     </>
   )
 }
