@@ -19,13 +19,13 @@ import Pricingsections from './pricingsections'
 function App() {
   return (
     <>
-    {/* <Signin/>
+    <Signin/>
     <Splitscreen/>
     <Herosection/> 
     <Phonemockup/> 
     <Ctasections/> 
-    <Ourteam /> */}
-    {/* <Bentogrids/> */}
+    <Ourteam /> 
+    * <Bentogrids/>
     <Pricingsections/>
     </>
   )
