@@ -23,10 +23,10 @@ function App() {
     <Splitscreen/> */}
     {/* * <Herosection/> 
     <Phonemockup/>  */}
-    <Ctasections/> 
-    <Ourteam /> 
-    {/* <Bentogrids/>
-    <Pricingsections/> */}
+    {/* <Ctasections/> 
+    <Ourteam />  */}
+     <Bentogrids/>
+    {/* <Pricingsections/>  */}
     </>
   )
 }
