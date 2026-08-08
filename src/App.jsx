@@ -11,7 +11,8 @@ import Ctasections from './ctaSections'
 import Ourteam from './ourteam'
 import Bentogrids from './BentoGrids'
 import Pricingsections from './pricingsections'
-
+import Newslettersections from './NewsletterSections'
+import Myfavorites from './myfavorites'
 
 
 
@@ -26,7 +27,9 @@ function App() {
     {/* <Ctasections/> 
     <Ourteam />  */}
      {/* <Bentogrids/> */}
-    <Pricingsections/> 
+    {/* <Pricingsections/>  */}
+    {/* <Newslettersections/> */}
+    <Myfavorites/>
     </>
   )
 }
