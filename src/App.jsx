@@ -13,6 +13,7 @@ import Bentogrids from './BentoGrids'
 import Pricingsections from './pricingsections'
 import Newslettersections from './NewsletterSections'
 import Myfavorites from './myfavorites'
+import Navbar from './favor'
 
 
 
@@ -29,7 +30,9 @@ function App() {
      {/* <Bentogrids/> */}
     {/* <Pricingsections/>  */}
     {/* <Newslettersections/> */}
+     {/* <Navbar/> */}
     <Myfavorites/>
+   
     </>
   )
 }
