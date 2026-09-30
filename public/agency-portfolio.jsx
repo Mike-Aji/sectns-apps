@@ -27,7 +27,7 @@ function Agencyportfolio() {
                     <a href="#"><img src="/images/agency/image6.jpg" alt="" className='w-110 h-100 object-cover' /></a>
                 </div>
             </div>
-            <footer className='bg-gray-700 '>
+            <footer className='bg-gray-700 sm:text-sm'>
                 <p className='text-center text-white p-20'>Sample footer text</p>
                 <div className='flex justify-center items-center gap-1 text-sm h-20'>
                     <a href="#" className='text-amber-300 underline underline-offset-2 hover:no-underline'>Website Templates</a>
