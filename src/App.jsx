@@ -14,6 +14,8 @@ import Pricingsections from './pricingsections'
 import Newslettersections from './NewsletterSections'
 import Myfavorites from './myfavorites'
 import Navbar from './favor'
+import Latestnews from './Latest-Our-News'
+import Agencyportfolio from '../public/agency-portfolio'
 
 
 
@@ -31,13 +33,14 @@ function App() {
     {/* <Pricingsections/>  */}
     {/* <Newslettersections/> */}
      {/* <Navbar/> */}
-    <Myfavorites/>
-   
+    {/* <Myfavorites/> */}
+    {/* <Latestnews/> */}
+    <Agencyportfolio/>
     </>
   )
 }
 
-export default App
+export default App;
 
 
 
